@@ -2,6 +2,7 @@
 using DesignPatterns.Memento;
 using DesignPatterns.State;
 using DesignPatterns.Strategy;
+using DesignPatterns.Template;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
@@ -65,6 +66,17 @@ Console.WriteLine("--> Strategy Pattern");
 ImageStorage imageStorage = new ImageStorage();
 imageStorage.Store("a", new PngCompressor());
 imageStorage.Store("b", new JpegCompressor());
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Template Method
+
+Console.WriteLine("--> Template Method Pattern");
+
+TransferMoneyTask transferMoneyTask = new TransferMoneyTask();
+transferMoneyTask.Execute();
 
 Console.WriteLine("---------------");
 
