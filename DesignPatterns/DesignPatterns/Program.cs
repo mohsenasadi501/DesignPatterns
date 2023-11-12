@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-using DesignPatterns.Memento;
+﻿using DesignPatterns.Memento;
+using DesignPatterns.State;
 
 Console.WriteLine("... Design Patters ...");
 
@@ -17,5 +17,14 @@ editor.CreateState(editor.Content);
 
 Console.WriteLine(editor.Restore());
 Console.WriteLine(editor.Restore());
+
+#endregion
+
+#region State Pattern
+
+Console.WriteLine("--> State Pattern");
+Canvas canvas =  new Canvas(new BrushTool());
+canvas.MouseUp();
+canvas.MouseDown();
 
 #endregion
