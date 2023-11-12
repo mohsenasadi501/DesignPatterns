@@ -1,6 +1,7 @@
 ﻿using DesignPatterns.Iterator;
 using DesignPatterns.Memento;
 using DesignPatterns.State;
+using DesignPatterns.Strategy;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
@@ -40,7 +41,7 @@ Console.WriteLine("---------------");
 #region Iterator Pattern
 
 Console.WriteLine("--> Iterator Pattern");
- 
+
 BrowseHistory history = new BrowseHistory();
 history.AddHistory("https://google.com");
 history.AddHistory("https://mohsenasadi501.com");
@@ -52,6 +53,18 @@ while (iterator.HasNext())
     Console.WriteLine(iterator.Current());
     iterator.Next();
 }
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Strategy Pattern
+
+Console.WriteLine("--> Strategy Pattern");
+
+ImageStorage imageStorage = new ImageStorage();
+imageStorage.Store("a", new PngCompressor());
+imageStorage.Store("b", new JpegCompressor());
 
 Console.WriteLine("---------------");
 
