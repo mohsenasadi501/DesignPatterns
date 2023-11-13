@@ -7,13 +7,15 @@ using DesignPatterns.Behavioral.Observer;
 using DesignPatterns.Behavioral.State;
 using DesignPatterns.Behavioral.Strategy;
 using DesignPatterns.Behavioral.Template;
-using DesignPatterns.Mediator;
-using DesignPatterns.Strategy;
+using DesignPatterns.Structural.Adaptor;
+using DesignPatterns.Structural.Adaptor.Lib;
+using DesignPatterns.Structural.Composite;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
 
 
+// Behavioral Design Patterns
 #region Mememto Pattern
 
 Console.WriteLine("--> Mememto Pattern");
@@ -155,6 +157,49 @@ WebServer webServer = new WebServer(authenticator);
 
 webServer.Handle(new HttpRequest() { UserName = "admin", Password = "1234" });
 
+
+Console.WriteLine("---------------");
+
+#endregion
+
+
+//Structural Design Patterns
+#region Composite Pattern
+
+Console.WriteLine("--> Composite Pattern");
+
+var group1 = new Group();
+group1.add(new Shape());
+group1.add(new Shape());
+
+var group2 = new Group();
+group2.add(new Shape());
+group2.add(new Shape());
+
+var group = new Group();
+group.add(group1);
+group.add(group2);
+group.render();
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Adaptor Pattern
+
+Console.WriteLine("--> Composite Pattern");
+
+ImageView imageView = new ImageView(new Image());
+imageView.apply(new VividFilter());
+imageView.apply(new CaramlFilter());
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Decorator Pattern 
+
+Console.WriteLine("--> Composite Pattern");
 
 Console.WriteLine("---------------");
 
