@@ -1,4 +1,5 @@
-﻿using DesignPatterns.Command;
+﻿using DesignPatterns.ChainOfResponsibility;
+using DesignPatterns.Command;
 using DesignPatterns.Iterator;
 using DesignPatterns.Mediator;
 using DesignPatterns.Memento;
@@ -133,6 +134,25 @@ Console.WriteLine();
 
 Console.WriteLine("Client triggers operation D.");
 component2.DoD();
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Chain Of Responsibility Pattern
+
+Console.WriteLine("--> Chain Of Responsibility Pattern");
+
+// authenticator -> logger -> compressor
+
+Compressor compressor = new Compressor(null);
+Logger logger = new Logger(compressor);
+Authenticator authenticator = new Authenticator(logger);
+
+WebServer webServer = new WebServer(authenticator);
+
+webServer.Handle(new HttpRequest() { UserName = "admin", Password = "1234" });
+
 
 Console.WriteLine("---------------");
 
