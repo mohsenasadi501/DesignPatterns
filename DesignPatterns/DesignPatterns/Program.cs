@@ -1,5 +1,8 @@
-﻿using DesignPatterns.Iterator;
+﻿using DesignPatterns.Command;
+using DesignPatterns.Iterator;
+using DesignPatterns.Mediator;
 using DesignPatterns.Memento;
+using DesignPatterns.Observer;
 using DesignPatterns.State;
 using DesignPatterns.Strategy;
 using DesignPatterns.Template;
@@ -77,6 +80,59 @@ Console.WriteLine("--> Template Method Pattern");
 
 TransferMoneyTask transferMoneyTask = new TransferMoneyTask();
 transferMoneyTask.Execute();
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Command Pattern
+
+Console.WriteLine("--> Command Pattern");
+
+CustomerService customerService = new CustomerService();
+ICommand command = new AddCustomerCommand(customerService);
+Button button = new Button(command);
+button.Click();
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Observer Pattern
+
+Console.WriteLine("--> Observer Pattern");
+
+DataSource dataSource = new DataSource();
+SpreadSheet spreadSheet1 = new SpreadSheet();
+SpreadSheet spreadSheet2 = new SpreadSheet();
+Chart chart = new Chart();
+
+dataSource.AddObserver(spreadSheet1);
+dataSource.AddObserver(spreadSheet2);
+dataSource.AddObserver(chart);
+
+dataSource.Value = 1;
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Mediator Pattern
+
+Console.WriteLine("--> Mediator Pattern");
+
+// The client code.
+Component1 component1 = new Component1();
+Component2 component2 = new Component2();
+new ConcreteMediator(component1, component2);
+
+Console.WriteLine("Client triggers operation A.");
+component1.DoA();
+
+Console.WriteLine();
+
+Console.WriteLine("Client triggers operation D.");
+component2.DoD();
 
 Console.WriteLine("---------------");
 

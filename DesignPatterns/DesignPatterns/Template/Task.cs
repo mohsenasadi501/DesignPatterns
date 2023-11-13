@@ -19,5 +19,12 @@
             doExecute();
         }
         protected abstract void doExecute();
+
+        // These are "hooks." Subclasses may override them, but it's not
+        // mandatory since the hooks already have default (but empty)
+        // implementation. Hooks provide additional extension points in some
+        // crucial places of the algorithm.
+        protected virtual void Hook1() { }
+        protected virtual void Hook2() { }
     }
 }
