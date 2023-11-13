@@ -1,12 +1,14 @@
-﻿using DesignPatterns.ChainOfResponsibility;
-using DesignPatterns.Command;
-using DesignPatterns.Iterator;
+﻿using DesignPatterns.Behavioral.ChainOfResponsibility;
+using DesignPatterns.Behavioral.Command;
+using DesignPatterns.Behavioral.Iterator;
+using DesignPatterns.Behavioral.Mediator;
+using DesignPatterns.Behavioral.Memento;
+using DesignPatterns.Behavioral.Observer;
+using DesignPatterns.Behavioral.State;
+using DesignPatterns.Behavioral.Strategy;
+using DesignPatterns.Behavioral.Template;
 using DesignPatterns.Mediator;
-using DesignPatterns.Memento;
-using DesignPatterns.Observer;
-using DesignPatterns.State;
 using DesignPatterns.Strategy;
-using DesignPatterns.Template;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
