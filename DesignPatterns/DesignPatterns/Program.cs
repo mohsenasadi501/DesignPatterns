@@ -7,6 +7,7 @@ using DesignPatterns.Behavioral.Observer;
 using DesignPatterns.Behavioral.State;
 using DesignPatterns.Behavioral.Strategy;
 using DesignPatterns.Behavioral.Template;
+using DesignPatterns.Creational.Singleton;
 using DesignPatterns.Structural.Adaptor;
 using DesignPatterns.Structural.Adaptor.Lib;
 using DesignPatterns.Structural.Bridge;
@@ -271,12 +272,38 @@ Console.WriteLine("---------------");
 
 Console.WriteLine("--> Proxy Pattern");
 
-Library  library =  new Library();
+Library library = new Library();
 string[] fileNames = { "a", "b", "c" };
 foreach (var item in fileNames)
-    library.Add(new Ebook(item));   
+    library.Add(new Ebook(item));
 
 library.OpenEbook("a");
+
+Console.WriteLine("---------------");
+
+#endregion
+
+
+// Creational Design Patterns
+
+
+#region Prototype Pattern
+
+Console.WriteLine("--> Prototype Pattern");
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Singleton Pattern
+
+Console.WriteLine("--> Singleton Pattern");
+
+ConfigManager manager = ConfigManager.GetInstatnce();
+manager.Set("Name", "Mohsen");
+
+ConfigManager other = ConfigManager.GetInstatnce();
+Console.WriteLine(other.Get("Name"));
 
 Console.WriteLine("---------------");
 
