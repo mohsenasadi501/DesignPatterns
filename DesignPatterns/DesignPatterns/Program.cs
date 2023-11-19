@@ -14,6 +14,7 @@ using DesignPatterns.Structural.Composite;
 using DesignPatterns.Structural.Decorator;
 using DesignPatterns.Structural.Facade;
 using DesignPatterns.Structural.Flyweight;
+using DesignPatterns.Structural.Proxy;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
@@ -265,3 +266,19 @@ advancedSamsungTVRemoteControl.TurnOn();
 Console.WriteLine("---------------");
 
 #endregion
+
+#region Proxy Pattern
+
+Console.WriteLine("--> Proxy Pattern");
+
+Library  library =  new Library();
+string[] fileNames = { "a", "b", "c" };
+foreach (var item in fileNames)
+    library.Add(new Ebook(item));   
+
+library.OpenEbook("a");
+
+Console.WriteLine("---------------");
+
+#endregion
+
