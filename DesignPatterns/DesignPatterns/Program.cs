@@ -9,9 +9,11 @@ using DesignPatterns.Behavioral.Strategy;
 using DesignPatterns.Behavioral.Template;
 using DesignPatterns.Structural.Adaptor;
 using DesignPatterns.Structural.Adaptor.Lib;
+using DesignPatterns.Structural.Bridge;
 using DesignPatterns.Structural.Composite;
 using DesignPatterns.Structural.Decorator;
 using DesignPatterns.Structural.Facade;
+using DesignPatterns.Structural.Flyweight;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
@@ -236,6 +238,29 @@ Console.WriteLine("---------------");
 #region Flyweight Pattern
 
 Console.WriteLine("--> Flyweight Pattern");
+
+var service = new PointService(new PointIconFactory());
+
+foreach (var item in service.GetPoints())
+    item.Draw();
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Bridge Pattern
+
+Console.WriteLine("--> Bridge Pattern");
+
+var remoteControl = new RemoteControl(new SonyTV());
+remoteControl.TurnOff();
+
+var advancedRemoteControl = new AdvancedRemoteControl(new SonyTV());
+advancedRemoteControl.TurnOff();
+
+
+var advancedSamsungTVRemoteControl = new AdvancedRemoteControl(new SamsungTV());
+advancedSamsungTVRemoteControl.TurnOn();
 
 Console.WriteLine("---------------");
 
