@@ -10,6 +10,8 @@ using DesignPatterns.Behavioral.Template;
 using DesignPatterns.Structural.Adaptor;
 using DesignPatterns.Structural.Adaptor.Lib;
 using DesignPatterns.Structural.Composite;
+using DesignPatterns.Structural.Decorator;
+using DesignPatterns.Structural.Facade;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
@@ -187,7 +189,7 @@ Console.WriteLine("---------------");
 
 #region Adaptor Pattern
 
-Console.WriteLine("--> Composite Pattern");
+Console.WriteLine("--> Adaptor Pattern");
 
 ImageView imageView = new ImageView(new Image());
 imageView.apply(new VividFilter());
@@ -200,6 +202,40 @@ Console.WriteLine("---------------");
 #region Decorator Pattern 
 
 Console.WriteLine("--> Composite Pattern");
+
+// It will call write method like a tree
+// EncryptedCloudStream -> CompressedCloudStream -> CloudStream
+
+IStream stream = new EncryptedCloudStream(
+    new CompressedCloudStream(new CloudStream()));
+stream.Write("asd@#@$#RFSdfs");
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Facade Pattern
+
+Console.WriteLine("--> Facade Pattern");
+
+//var notificationServer = new NotificationServer();
+//var connection = notificationServer.Connect("ip");
+//var authToken = notificationServer.authentication("appId", "key");
+//var message = new Message("Hello world");
+//notificationServer.Send(authToken, message, "target");
+//connection.Disconnect();
+
+NotificationService notificationService = new NotificationService();
+notificationService.Send("Hello", "ip");
+
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Flyweight Pattern
+
+Console.WriteLine("--> Flyweight Pattern");
 
 Console.WriteLine("---------------");
 
