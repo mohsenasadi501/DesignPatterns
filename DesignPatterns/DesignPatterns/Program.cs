@@ -7,6 +7,7 @@ using DesignPatterns.Behavioral.Observer;
 using DesignPatterns.Behavioral.State;
 using DesignPatterns.Behavioral.Strategy;
 using DesignPatterns.Behavioral.Template;
+using DesignPatterns.Creational.Factory;
 using DesignPatterns.Creational.Singleton;
 using DesignPatterns.Structural.Adaptor;
 using DesignPatterns.Structural.Adaptor.Lib;
@@ -308,4 +309,16 @@ Console.WriteLine(other.Get("Name"));
 Console.WriteLine("---------------");
 
 #endregion
+
+#region Factory Pattern
+
+Console.WriteLine("--> Factory Pattern");
+
+var productsController = new ProductsController();
+productsController.ListProducts();
+
+Console.WriteLine("---------------");
+
+#endregion
+
 
