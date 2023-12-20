@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Structural.Adaptor.Lib
 {
+    /// <summary>
+    /// Adaptee
+    /// </summary>
     internal class Caramel
     {
         public void init()
