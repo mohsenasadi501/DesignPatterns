@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Structural.Composite
 {
+    /// <summary>
+    /// Leaf
+    /// </summary>
     internal class Shape : Component
     {
         public void move()

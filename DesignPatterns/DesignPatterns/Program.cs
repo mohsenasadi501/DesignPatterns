@@ -287,8 +287,6 @@ Console.WriteLine("---------------");
 
 
 // Creational Design Patterns
-
-
 #region Prototype Pattern
 
 Console.WriteLine("--> Prototype Pattern");

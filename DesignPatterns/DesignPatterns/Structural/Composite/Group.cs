@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Structural.Composite
 {
+    /// <summary>
+    /// Composite
+    /// </summary>
     internal class Group : Component
     {
         private List<Component> components = new List<Component>();
