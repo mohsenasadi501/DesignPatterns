@@ -1,16 +1,22 @@
 ﻿namespace DesignPatterns.Creational.Prototype
 {
-    internal class Circle : Component
+    /// <summary>
+    /// Concrete prototype
+    /// </summary>
+    internal class Circle : IComponent, ICloneable
     {
         public int Radius { get; set; }
 
-        public Component Clone()
+        public object Clone()
         {
-            //Circle newCircle = new Circle();
-            //newCircle.Radius = Radius;
-            //return newCircle;
-
             return this.Clone();
+        }
+
+        public IComponent CloneObject()
+        {
+            Circle newCircle = new Circle();
+            newCircle.Radius = Radius;
+            return newCircle;
         }
 
         public void Render()

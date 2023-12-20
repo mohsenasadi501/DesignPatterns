@@ -2,6 +2,9 @@
 
 namespace DesignPatterns.Behavioral.Command
 {
+    /// <summary>
+    /// Concrete implementation
+    /// </summary>
     internal class AddCustomerCommand : ICommand
     {
         private CustomerService _customerService;

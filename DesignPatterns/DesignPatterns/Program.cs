@@ -7,7 +7,9 @@ using DesignPatterns.Behavioral.Observer;
 using DesignPatterns.Behavioral.State;
 using DesignPatterns.Behavioral.Strategy;
 using DesignPatterns.Behavioral.Template;
+using DesignPatterns.Creational.AbstractFactory;
 using DesignPatterns.Creational.Factory;
+using DesignPatterns.Creational.Prototype;
 using DesignPatterns.Creational.Singleton;
 using DesignPatterns.Structural.Adaptor;
 using DesignPatterns.Structural.Adaptor.Lib;
@@ -20,7 +22,6 @@ using DesignPatterns.Structural.Proxy;
 
 Console.WriteLine("... Design Patters ...");
 Console.WriteLine("----------------------");
-
 
 // Behavioral Design Patterns
 #region Mememto Pattern
@@ -292,6 +293,10 @@ Console.WriteLine("---------------");
 
 Console.WriteLine("--> Prototype Pattern");
 
+Circle circle = new Circle();
+var OurImplementationCloneObject = circle.CloneObject();
+var DotnetImplementationCloneObject = circle.Clone();
+
 Console.WriteLine("---------------");
 
 #endregion
@@ -316,6 +321,20 @@ Console.WriteLine("--> Factory Pattern");
 
 var productsController = new ProductsController();
 productsController.ListProducts();
+
+Console.WriteLine("---------------");
+
+#endregion
+
+#region Abstract Factory
+
+Console.WriteLine("--> Abstract Factory Pattern");
+
+new Farmer(new VegetableFarm());
+
+Console.WriteLine();
+
+new Farmer(new PoultryFarm());
 
 Console.WriteLine("---------------");
 
