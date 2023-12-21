@@ -2,5 +2,8 @@
 {
     internal class AuthToken
     {
+        internal void Authenticate()
+        {
+        }
     }
 }
