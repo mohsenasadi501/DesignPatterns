@@ -1,16 +1,15 @@
 ﻿namespace DesignPatterns.Structural.Decorator
 {
-    internal class CompressedCloudStream : IStream
+    /// <summary>
+    /// Concrete Decoratror
+    /// </summary>
+    internal class CompressedCloudStream : StreamDecorator
     {
-        private IStream _stream;
-        public CompressedCloudStream(IStream stream)
-        {
-            _stream = stream;
-        }
+        public CompressedCloudStream(IStream stream):base(stream) { }
         public void Write(string data)
         {
             var compressedData = Compress(data);
-            _stream.Write(compressedData);
+            base.Write(compressedData);
         }
         private string Compress(string data)
         {
