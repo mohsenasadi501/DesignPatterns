@@ -1,4 +1,6 @@
-﻿namespace DesignPatterns.Structural.Flyweight
+﻿using DesignPatterns.Structural.Flyweight.Model;
+
+namespace DesignPatterns.Structural.Flyweight
 {
     /// <summary>
     /// Client

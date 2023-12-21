@@ -1,4 +1,4 @@
-﻿using static DesignPatterns.Structural.Flyweight.Enums;
+﻿using static DesignPatterns.Structural.Flyweight.Model.Enums;
 
 namespace DesignPatterns.Structural.Flyweight
 {
