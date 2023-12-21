@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Structural.Flyweight
 {
+    /// <summary>
+    /// Client
+    /// </summary>
     internal class PointService
     {
         private readonly PointIconFactory _pointIconFactory;

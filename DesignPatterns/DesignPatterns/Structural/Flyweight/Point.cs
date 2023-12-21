@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Structural.Flyweight
 {
+    /// <summary>
+    /// Flyweight
+    /// </summary>
     internal class Point
     {
         public int X { get; set; }

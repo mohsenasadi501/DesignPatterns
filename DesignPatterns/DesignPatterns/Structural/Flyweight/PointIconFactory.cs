@@ -2,6 +2,9 @@
 
 namespace DesignPatterns.Structural.Flyweight
 {
+    /// <summary>
+    /// Flyweight Factory
+    /// </summary>
     internal class PointIconFactory
     {
         Dictionary<PointType, PointIcon> icons = new Dictionary<PointType, PointIcon>();
