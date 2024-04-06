@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.State
 {
+    /// <summary>
+    /// Concrete State A
+    /// </summary>
     internal class BrushTool : ITool
     {
         public void MouseDown()

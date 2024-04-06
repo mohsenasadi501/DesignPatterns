@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.State
 {
+    /// <summary>
+    /// Concrete State B
+    /// </summary>
     internal class SelectionTool : ITool
     {
         public void MouseDown()

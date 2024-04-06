@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\DesignPatterns\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\jpegcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\jpegcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\icompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\icompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\pngcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\pngcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:08:26.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PngCompressor.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:08:21.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JpegCompressor.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:08:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICompressor.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:08:02.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

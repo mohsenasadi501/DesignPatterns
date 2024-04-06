@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.State
 {
+    /// <summary>
+    /// Context
+    /// </summary>
     internal class Canvas
     {
         private ITool _tool { get; set; }
