@@ -1,6 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.Observer
 {
-    //Observable
+    /// <summary>
+    /// Observable Class
+    /// </summary>
     internal class Subject : ISubject
     {
         List<IObserver> _observers = new List<IObserver>();

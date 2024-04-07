@@ -3,20 +3,104 @@
   "WorkspaceRootPath": "D:\\Development\\DesignPatterns\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\jpegcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\jpegcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\mediator\\basecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\mediator\\basecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\mediator\\component1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\mediator\\component1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\mediator\\concretemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\mediator\\concretemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\mediator\\component2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\mediator\\component2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\mediator\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\mediator\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\icompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\icompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\iterator\\browsehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\iterator\\browsehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\pngcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\pngcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\iterator\\listiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\iterator\\listiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\iterator\\arrayiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\iterator\\arrayiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\template\\audittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\template\\audittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\template\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\template\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\strategy\\imagestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\strategy\\imagestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\state\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\state\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\state\\selectiontool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\state\\selectiontool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\state\\brushtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\state\\brushtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\state\\itool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\state\\itool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\observer\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\observer\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\observer\\spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\observer\\spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\command\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\command\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\command\\addcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\command\\addcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|d:\\development\\designpatterns\\designpatterns\\designpatterns\\behavioral\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D03C8-7A1D-4EB8-B5C2-B561786EBF7A}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\behavioral\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +126,321 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
-              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAhwFMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T08:08:26.829Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PngCompressor.cs",
-              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
-              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
-              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\PngCompressor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Title": "Component2.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\Component2.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Mediator\\Component2.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\Component2.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Mediator\\Component2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T08:08:21.741Z"
+              "WhenOpened": "2024-04-07T16:38:46.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JpegCompressor.cs",
-              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
-              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
-              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\JpegCompressor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Title": "BaseComponent.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\BaseComponent.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Mediator\\BaseComponent.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\BaseComponent.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Mediator\\BaseComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T08:08:17.827Z",
+              "WhenOpened": "2024-04-07T16:37:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component1.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\Component1.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Mediator\\Component1.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\Component1.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Mediator\\Component1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:37:26.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICompressor.cs",
-              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
-              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
-              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\ICompressor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Title": "ConcreteMediator.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\ConcreteMediator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Mediator\\ConcreteMediator.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\ConcreteMediator.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Mediator\\ConcreteMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T08:08:02.05Z"
+              "WhenOpened": "2024-04-07T16:37:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\IMediator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Mediator\\IMediator.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Mediator\\IMediator.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Mediator\\IMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:37:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrowseHistory.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\BrowseHistory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Iterator\\BrowseHistory.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\BrowseHistory.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Iterator\\BrowseHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:10:44.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArrayIterator.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\ArrayIterator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Iterator\\ArrayIterator.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\ArrayIterator.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Iterator\\ArrayIterator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:10:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListIterator.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\ListIterator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Iterator\\ListIterator.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\ListIterator.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Iterator\\ListIterator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:10:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\IIterator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Iterator\\IIterator.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Iterator\\IIterator.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Iterator\\IIterator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:09:49.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Template\\Task.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Template\\Task.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Template\\Task.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Template\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:06:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuditTrail.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Template\\AuditTrail.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Template\\AuditTrail.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Template\\AuditTrail.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Template\\AuditTrail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:06:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageStorage.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\ImageStorage.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Strategy\\ImageStorage.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Strategy\\ImageStorage.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Strategy\\ImageStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:06:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\Canvas.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\State\\Canvas.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\Canvas.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\State\\Canvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:05:47.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:59:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelectionTool.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\SelectionTool.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\State\\SelectionTool.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\SelectionTool.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\State\\SelectionTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:05:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrushTool.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\BrushTool.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\State\\BrushTool.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\BrushTool.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\State\\BrushTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:05:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITool.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\ITool.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\State\\ITool.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\State\\ITool.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\State\\ITool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:04:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\Subject.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Observer\\Subject.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\Subject.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Observer\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:16:34.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Observer\\IObserver.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\IObserver.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Observer\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:10:19.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Chart.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\Chart.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Observer\\Chart.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\Chart.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Observer\\Chart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:08:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpreadSheet.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\SpreadSheet.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Observer\\SpreadSheet.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\SpreadSheet.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Observer\\SpreadSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:08:43.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Observer\\ISubject.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Observer\\ISubject.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Observer\\ISubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:05:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Command\\Button.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Command\\Button.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Command\\Button.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Command\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:59:47.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Command\\AddCustomerCommand.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Command\\AddCustomerCommand.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Command\\AddCustomerCommand.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Command\\AddCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:59:26.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Behavioral\\Command\\ICommand.cs",
+              "ToolTip": "D:\\Development\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Behavioral\\Command\\ICommand.cs",
+              "RelativeToolTip": "DesignPatterns\\Behavioral\\Command\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:59:20.001Z"
             }
           ]
         }

@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.Iterator
 {
+    /// <summary>
+    /// Iterator
+    /// </summary>
     internal class BrowseHistory
     {
         private List<string> _history;

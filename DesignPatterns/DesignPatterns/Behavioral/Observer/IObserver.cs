@@ -1,7 +1,7 @@
 ﻿namespace DesignPatterns.Behavioral.Observer
 {
     /// <summary>
-    /// Observer
+    /// Observer Interface
     /// </summary>
     internal interface IObserver
     {

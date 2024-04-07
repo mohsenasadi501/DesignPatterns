@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.Iterator
 {
+    /// <summary>
+    /// IAggregate
+    /// </summary>
     internal class ArrayIterator : IIterator<string>
     {
         public string Current()

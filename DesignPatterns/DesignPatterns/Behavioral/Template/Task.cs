@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.Template
 {
+    /// <summary>
+    /// Abstract Class
+    /// </summary>
     internal abstract class Task
     {
         private AuditTrail _auditTrail;

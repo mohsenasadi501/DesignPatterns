@@ -1,5 +1,8 @@
 ﻿namespace DesignPatterns.Behavioral.Iterator
 {
+    /// <summary>
+    /// IAggregate
+    /// </summary>
     internal class ListIterator : IIterator<string>
     {
         private List<string> lst = new List<string>();
